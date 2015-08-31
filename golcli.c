@@ -1,6 +1,6 @@
 #include <stdlib.h>
-#include <ncurses.h>
 #include <signal.h>
+#include <ncurses.h>
 
 int XSIZE = -1;
 int YSIZE = -1;
