@@ -174,7 +174,7 @@ int isParamExist(char* param){
 }
 
 void printHelp(){
-    printf("golcli 1.0. Conway's Game of Life with ncurses interaface.\n\n");
+    printf("golcli 1.0. Conway's Game of Life with ncurses interface.\n\n");
     printf("Usage: golcli [OPTIONS]\n\n");
     printf(
     "\
